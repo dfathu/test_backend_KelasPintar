@@ -1,6 +1,8 @@
 ﻿# test_backend_KelasPintar
 # Hasil image : 
-![phone_1](/src/assets/github/image/phone_1.png)
-![phone_2](/src/assets/github/image/phone_2.png)
-![phone_3](/src/assets/github/image/phone_3.png)
-![phone_4](/src/assets/github/image/phone_4.png)
+![hasil_1](/images/1.png)
+![hasil_2_part_1](/images/2_1.png)
+![hasil_2_part_1](/images/2_2.png)
+![hasil_3](/images/3.png)
+![hasil_4_part_1](/images/4.png)
+![hasil_4_part_1](/images/4_2.png)
