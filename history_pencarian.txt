@@ -1,0 +1,4 @@
+history pencarian :
+crate table mysql
+create table foreign key mysql
+query indexing in mysql

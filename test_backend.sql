@@ -1,8 +1,3 @@
-history pencarian :
-crate table mysql
-create table foreign key mysql
-query indexing in mysql
-
 1.
 CREATE TABLE hobbies (
 id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
